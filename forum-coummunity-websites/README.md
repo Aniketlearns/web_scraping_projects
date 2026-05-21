@@ -1,3 +1,4 @@
+User discussions & opinions.
 Examples:
   Quora, Reddit, Stack Overflow
 Use Cases:
