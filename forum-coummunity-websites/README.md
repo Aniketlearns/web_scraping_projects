@@ -1,5 +1,9 @@
-User discussions & opinions.
+Forum & Community Websites
+  User discussions aur opinions.
 Examples:
-  Quora, Reddit, Stack Overflow
+  Quora
+  Reddit
+  Stack Overflow
 Use Cases:
-  NLP datasets, Coummunity insights
+  NLP datasets
+  Community insights
