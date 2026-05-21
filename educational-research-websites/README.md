@@ -1,7 +1,9 @@
+Educational & Research Websites
+  Academic papers, courses, metadata.
 Examples:
-google scholar, coursera, researchgate
-
+  Google Scholar
+  Coursera
+  ResearchGate
 Use Cases:
-
-Academic analysis
-Dataset creation
+  Academic analysis
+  Dataset creation
